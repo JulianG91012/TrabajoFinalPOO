@@ -1,0 +1,10 @@
+T|Licenciado en Lengua Castellaña|Ingeniero en Sistemas
+D|Ruben Estupiñan Perez|8/01/1978|A306
+T|Licenciada en Lengua Inglesa|Físico Nuclear
+D|Diana Muñoz Rodriguez|16/07/1990|B103
+T|Matemático
+D|Luis Alfonso Cano|28/02/1987|C603
+T|Ingeniero en Sistemas e Informática
+D|Vladímir Levin|5/05/1993|A666
+T|Ingeniero en Diseño y Entretenimiento Digital|Ingeniero en Sistemas
+D|Oscar Eduardo Sanchez Garcia|10/11/1989|A303

@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ProyectoFinalPOO-Universidad.exe
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ProyectoFinalPOO-Universidad.deps.json
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ProyectoFinalPOO-Universidad.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ProyectoFinalPOO-Universidad.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ProyectoFinalPOO-Universidad.dll
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ref\ProyectoFinalPOO-Universidad.dll
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\bin\Debug\net5.0\ProyectoFinalPOO-Universidad.pdb
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.dll
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ref\ProyectoFinalPOO-Universidad.dll
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.pdb
+C:\Users\USUARIO\Desktop\ProyectoFinalPOO-Universidad\ProyectoFinalPOO-Universidad\obj\Debug\net5.0\ProyectoFinalPOO-Universidad.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+UPB|Ingenieria en Diseño de Entretenimiento Digital|2014|UPB|Maestria en Cine Documental|2016|ADEA|Especialización en Seguridad Informatica|2018|EAFIT|Especialización en Gestión de Proyectos|2020|X|X|X
+UPB|Ingenieria Mecanica|2014|UPB|Maestria en Cine Documental|2016|ADEA|Especialización en Seguridad Informatica|2018|X|X|X|X|X|X
+UPB|Ingenieria Electronica|2014|UPB|Especialización En Gerencia para Ingenieros|2016|X|X|X|X|X|X|X|X|X
