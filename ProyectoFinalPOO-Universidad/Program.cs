@@ -162,8 +162,8 @@ namespace ProyectoFinalPOO_Universidad
                         Console.WriteLine("Ingrese el Titulo de la tesis: ");
                         String resp1 = Console.ReadLine();
                         string[,] v_estudios_previos = new string[5, 3];
-                        Posgrado pos1;
-                        pos1 = new Posgrado("Julian", 555556, DateTime.Parse("19/07/1980"), "Olman", v_estudios_previos[5, 3]);
+                        Posgrado pos1;                        
+                        pos1 = new Posgrado("Julian", 555556, DateTime.Parse("19/07/1980"), "Olman", v_estudios_previos, "Tesis");
                         linea = pos1.HacerTesis("Lo malo de ser bueno", "Cesar", "Leonardo", "Ferney", DateTime.Parse("22/11/2021"));
                         arregloSplit = linea.Split('|');
 
