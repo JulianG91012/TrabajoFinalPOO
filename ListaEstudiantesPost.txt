@@ -1,6 +1,6 @@
-Nelson Mandela|18/5/1980|Martin Luther King
-Julian Bustamante|27/8/1999|Paula Maldonado
-Karen Cortes|30/4/1991|Diana Flores Vezga
+Nelson Mandela|18/05/1980|Martin Luther King
+Julian Bustamante|27/08/1999|Paula Maldonado
+Karen Cortes|30/04/1991|Diana Flores Vezga
 Jose Antonio Ruiz|18/11/1994|Marta Lucia Ramirez
-Geraldine Bustamante|27/3/2001|Tatiana Velasquez Mora
-Oscar Eduardo|30/2/1986|Denzer Camilo Morales
+Geraldine Bustamante|27/03/2001|Tatiana Velasquez Mora
+Oscar Eduardo|30/03/1986|Denzer Camilo Morales

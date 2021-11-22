@@ -1,6 +1,6 @@
-PRE|Sofia Gómez López|14/9/2000|Eliana Maritza López
+PRE|Sofia Gómez López|14/09/2000|Eliana Maritza López
 I|IE Jorge Eliecer Gaitan|2015|Bachiller
-PRE|Antolin Triviño Gómez|13/8/2001|Claribel Gómez
+PRE|Antolin Triviño Gómez|13/08/2001|Claribel Gómez
 I|IE Jorge Eliecer Gaitan|2015|Bachiller
-PRE|Jhonathan Palacio|13/2/1995|Marta Cecilia
+PRE|Jhonathan Palacio|13/02/1995|Marta Cecilia
 I|IE Jorge Eliecer Gaitan|2015|Bachiller

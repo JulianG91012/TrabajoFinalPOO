@@ -11,10 +11,10 @@ namespace ProyectoFinalPOO_Universidad.Clases
     {
         private string nombre;
         private string direccion;
-        private List<Estudiante> l_estudiantes;
-        private List<Docente> l_profesores;
-        private List<Historia_Academica> l_historias_academicas;
-        private List<Asignatura> l_asignaturas;
+        private List<Estudiante> l_estudiantes = new List<Estudiante>();
+        private List<Docente> l_profesores = new List<Docente>();
+        private List<Historia_Academica> l_historias_academicas = new List<Historia_Academica>();
+        private List<Asignatura> l_asignaturas = new List<Asignatura>();
         //Ya con esto tenemos creados los atributos de la Universidad, vamos a agregar atributos que nos servirán para más adelante:
         public const byte edad_min_admision = 16;
         public const uint anho_fundacion = 1970;
