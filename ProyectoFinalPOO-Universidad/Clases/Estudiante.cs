@@ -84,7 +84,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
             try
             {
                 List<Evaluacion> l_evaluaciones_est = new List<Evaluacion>();
-                Universidad universidad = new Universidad();
+                Universidad universidad = new Universidad("UPB", "Carrera 70");
                 foreach (Historia_Academica elemento in universidad.L_historias_academicas)
                 {
                     if (elemento.Año == año && elemento.Semestre == semestre)

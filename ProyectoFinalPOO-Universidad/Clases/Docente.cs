@@ -70,7 +70,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
             {
                 //Se crea la evaluacion y se califica
                 Evaluacion evaluacion = new Evaluacion(estudiante, materia, nota_final);
-                Universidad universidad = new Universidad();
+                Universidad universidad = new Universidad("UPB", "Carrera 70");
                 //Se Confirma que la asignatura sea dictada por el profesor
                 foreach (Docente elemento in Asignatura.l_profesores)
                 {
