@@ -51,7 +51,7 @@ namespace ProyectoFinalPOO_Universidad
                                     Console.WriteLine("Ingrese el nombre de su acudiente: ");
                                     resp_acudiente = Console.ReadLine();
                                     Pregrado pre1 = new Pregrado(resp_nombre, 123455, DateTime.Parse(resp_datetime), resp_acudiente, Pregrado.L_tipos_tbj_grado.Practicas, v_informacion);
-                                    linea = pre1.HacerGrado(Pregrado.L_tipos_tbj_grado.Pasantía_Investigativa, "Cesar");
+                                    linea = pre1.HacerGrado(Pregrado.L_tipos_tbj_grado.Practicas, "Cesar");
                                     arreglo_split = linea.Split('|');
 
                                     Console.WriteLine("Tipo de trabajo: " + arreglo_split[0] + "\nMonitor: " + arreglo_split[1] + "\nNota: " + arreglo_split[2]);
