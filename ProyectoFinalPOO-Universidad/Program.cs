@@ -41,7 +41,16 @@ namespace ProyectoFinalPOO_Universidad
                                     string linea;
                                     string[] arreglo_split;
                                     string[] v_informacion = new string[3];
-                                    Pregrado pre1 = new Pregrado("Julian", 123455, DateTime.Parse("05/05/2003"), "Eliana", Pregrado.L_tipos_tbj_grado.Plan_Negocios, v_informacion);
+                                    String resp_nombre;
+                                    String resp_datetime;
+                                    String resp_acudiente;
+                                    Console.WriteLine("Ingrese su nombre: ");
+                                    resp_nombre = Console.ReadLine();
+                                    Console.WriteLine("Ingrese su fecha de Nacimiento en formato DD/MM/AAAA: ");
+                                    resp_datetime = Console.ReadLine();
+                                    Console.WriteLine("Ingrese el nombre de su acudiente: ");
+                                    resp_acudiente = Console.ReadLine();
+                                    Pregrado pre1 = new Pregrado(resp_nombre, 123455, DateTime.Parse(resp_datetime), resp_acudiente, Pregrado.L_tipos_tbj_grado.Practicas, v_informacion);
                                     linea = pre1.HacerGrado(Pregrado.L_tipos_tbj_grado.Pasantía_Investigativa, "Cesar");
                                     arreglo_split = linea.Split('|');
 
@@ -58,7 +67,16 @@ namespace ProyectoFinalPOO_Universidad
                                     String linea2;
                                     String[] arregloSplit;
                                     String[] v_informacion = new string[3];
-                                    Pregrado pre2 = new Pregrado("Styven", 123456, DateTime.Parse("10/10/2000"), "Maria", Pregrado.L_tipos_tbj_grado.Plan_Negocios, v_informacion);
+                                    String resp_nombre;
+                                    String resp_datetime;
+                                    String resp_acudiente;
+                                    Console.WriteLine("Ingrese su nombre: ");
+                                    resp_nombre = Console.ReadLine();
+                                    Console.WriteLine("Ingrese su fecha de Nacimiento en formato DD/MM/AAAA: ");
+                                    resp_datetime = Console.ReadLine();
+                                    Console.WriteLine("Ingrese el nombre de su acudiente: ");
+                                    resp_acudiente = Console.ReadLine();
+                                    Pregrado pre2 = new Pregrado(resp_nombre, 123456, DateTime.Parse(resp_datetime), resp_acudiente, Pregrado.L_tipos_tbj_grado.Pasantía_Investigativa, v_informacion);
                                     linea2 = pre2.HacerGrado(Pregrado.L_tipos_tbj_grado.Pasantía_Investigativa, "Juan");
                                     arregloSplit = linea2.Split('|');
 
@@ -75,7 +93,16 @@ namespace ProyectoFinalPOO_Universidad
                                     String linea;
                                     String[] arregloSplit;
                                     String[] v_informacion = new string[3];
-                                    Pregrado pre3 = new Pregrado("Sebastian", 123457, DateTime.Parse("7/01/1999"), "Juan", Pregrado.L_tipos_tbj_grado.Practicas, v_informacion);
+                                    String resp_nombre;
+                                    String resp_datetime;
+                                    String resp_acudiente;
+                                    Console.WriteLine("Ingrese su nombre: ");
+                                    resp_nombre = Console.ReadLine();
+                                    Console.WriteLine("Ingrese su fecha de Nacimiento en formato DD/MM/AAAA: ");
+                                    resp_datetime = Console.ReadLine();
+                                    Console.WriteLine("Ingrese el nombre de su acudiente: ");
+                                    resp_acudiente = Console.ReadLine();
+                                    Pregrado pre3 = new Pregrado(resp_nombre, 123457, DateTime.Parse(resp_datetime), resp_acudiente, Pregrado.L_tipos_tbj_grado.Plan_Negocios, v_informacion);
                                     linea = pre3.HacerGrado(Pregrado.L_tipos_tbj_grado.Plan_Negocios, "Juan");
                                     arregloSplit = linea.Split('|');
 
