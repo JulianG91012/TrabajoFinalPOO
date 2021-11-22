@@ -23,7 +23,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                Universidad universidad = new Universidad();
+                Universidad universidad = new Universidad("UPB", "Carrera 70");
                 float nota_cuantativa = universidad.Nota_Trabajo_Grado_Pregrado();
                 string mensaje = "...Resultados de Trabajo de Grado...\n";
                 mensaje = var_tbj_grado + "|" + monitor + "|" + nota_cuantativa;

@@ -25,7 +25,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                Universidad universidad = new Universidad();
+                Universidad universidad = new Universidad("UPB", "Carrera 70");
                 bool nota_cualitativa = universidad.Nota_Trabajo_Grado_Posgrado();
                 string mensaje = "...Resultado de Tesis...\n";
                 mensaje = titulo_tesis + "|" + director + "|" + evaluador1 + "|" + evaluador2 + "|" + nota_cualitativa + "|" + fecha_sustentacion;

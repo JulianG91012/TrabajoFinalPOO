@@ -1,3 +1,3 @@
-A|Matematicas|Ruben Estupiñan Perez|Vladímir Levin
-A|Humanidades|Diana Muñoz Rodriguez
-A|Cristologia|Luis Alfonso Cano|Oscar Eduardo Sanchez Garcia
+A|Matematicas|1|Ruben Estupiñan Perez
+A|Humanidades|9|Diana Muñoz Rodriguez
+A|Cristologia|7|Luis Alfonso Cano

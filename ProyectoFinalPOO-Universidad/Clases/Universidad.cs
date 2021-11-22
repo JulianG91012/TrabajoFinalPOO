@@ -37,10 +37,10 @@ namespace ProyectoFinalPOO_Universidad.Clases
             Cargar_L_Historias_Academicas();
             
         }
-        public Universidad()
-        {
+        //public Universidad()
+        //{
 
-        }
+        //}
 
         public Universidad(string nombre, string direccion, List<Estudiante> l_estudiantes)
         {
@@ -130,7 +130,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\ProyectoFinalPOO-Universidad\\ListaProfesores.txt");
+                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\UPB\\para subir a Git\\TrabajofinalPOO\\ListaProfesores.txt");
 
                 string[] v_docentes;
                 List<string> l_titulos = new List<string>();
@@ -170,7 +170,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\ProyectoFinalPOO-Universidad\\ListaEstudiantesPre.txt");
+                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\UPB\\para subir a Git\\TrabajofinalPOO\\ListaEstudiantesPre.txt");
 
                 string[] v_estudiante_pre;
                 string[] v_info_estudiante_pre = new string[3];
@@ -213,7 +213,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\ProyectoFinalPOO-Universidad\\ListaEstudiantesPost.txt");
+                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\UPB\\para subir a Git\\TrabajofinalPOO\\ListaEstudiantesPost.txt");
                 string[] v_estudiantes_pos;
                 string[,] m_info_estudiante_pos = Cargar_M_Estudiantes_Posgrado();
                 Random aleatorio = new Random();
@@ -238,7 +238,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\ProyectoFinalPOO-Universidad\\InfoMatrizEstudiantePos.txt");
+                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\UPB\\para subir a Git\\TrabajofinalPOO\\InfoMatrizEstudiantePos.txt");
                 string[] v_matriz_pos;
                 string[,] m_info_estudios_previos = new string[5, 3];
                 string linea;
@@ -269,7 +269,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\ProyectoFinalPOO-Universidad\\ListaHistorialAcademico.txt");
+                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\UPB\\para subir a Git\\TrabajofinalPOO\\ListaHistorialAcademico.txt");
                 string[] v_historia_aca;
                 Historia_Academica historia_academica;
                 List<Evaluacion> l_evaluaciones = new List<Evaluacion>();
@@ -296,7 +296,7 @@ namespace ProyectoFinalPOO_Universidad.Clases
         {
             try
             {
-                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\ProyectoFinalPOO-Universidad\\ListaAsignaturas.txt");
+                StreamReader archivo = new StreamReader("C:\\Users\\USUARIO\\Desktop\\UPB\\para subir a Git\\TrabajofinalPOO\\ListaAsignaturas.txt");
                 string[] v_asignaturas;
                 Asignatura asignatura;
                 List<string> l_docentes = new List<string>();
